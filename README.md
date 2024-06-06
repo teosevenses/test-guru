@@ -27,16 +27,9 @@ Things you may want to cover:
 
 Object's list
 
-Author
-
+Admin 
 User
-
-Login
-
-Password
-
-Answer
-
 Question
-
-Date
+Answer
+Test
+Test's status
