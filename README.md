@@ -32,5 +32,5 @@ User
 Question
 Answer
 Test
-Test's status
+Test's result
 Category
