@@ -22,3 +22,15 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+
+
+Object's list
+
+Admin 
+User
+Question
+Answer
+Test
+Test's result
+Category
